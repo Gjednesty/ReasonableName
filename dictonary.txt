@@ -1,1 +1,5 @@
 Group:elfen
+
+German		English
+Brot		loaf
+Biergarten	beer garden
