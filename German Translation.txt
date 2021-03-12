@@ -1,0 +1,24 @@
+GERMAN					ENGLISH
+Raesfeld 				Raesfeld
+Flughafen 				Airport
+Berlin 					Berlin
+Bratwurst 				bratwurst
+Hauptstrasse 			Main road
+Brot 					loaf
+Gauss 					Gauss
+Klimaanlage				air conditioner 
+RammsteinMusik			RammsteinMusic 
+Porsche 				Porsche				
+BMW 					BMW
+Biergarten 				Beer garden
+Ratskeller 				Ratskeller
+Dirndel 				Dirndel
+Lederhose 				Lederhose
+Audi 					Audi
+Schloss 				lock
+Munich 					Munich
+wet-tbewerbsfaehig 		competitive
+Mehlhase 				Flour bunny (Apparently)
+Gebaeck 				Pastries
+Baeckerei 				Bakery
+Hund					dog
